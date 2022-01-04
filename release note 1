@@ -1,4 +1,10 @@
 USAGE
-- paste the php code to the index.php in the xampp provided folder reachable over the xampp window after start
-- hit f5 till the ellipse finds the other object
-- count the tries over time and send me the numbers for my statistics
+- take the index.php via the xampp localhost
+- see the red dot as the historical point in time
+- press f5 for the action to begin
+- the green dot represents the direction of the line
+- the ellipse for now jumps random through the area (will catch and follow the line end later)
+- (could be a tracking of a rope through a lake for a robot which uses a rgb camera to have a automatic direction target)
+
+Based on a research project of SELU, Hammond, United States of America regarding underwater data collection:
+http://www.southeastern.edu/acad_research/depts/iet/programs/facilities/index.html
